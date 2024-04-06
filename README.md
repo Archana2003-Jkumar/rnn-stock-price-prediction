@@ -118,10 +118,10 @@ print("Mean Squared Error = ",mse)
 
 ## OUTPUT
 ### True Stock Price, Predicted Stock Price vs time
-![image](https://github.com/Archana2003-Jkumar/rnn-stock-price-prediction/assets/93427594/c360c702-3019-4038-89f9-f797e77b9d13)
+![image](https://github.com/Archana2003-Jkumar/rnn-stock-price-prediction/assets/93427594/94334c4b-02cc-416a-8384-6833d0598898)
 
 ### Mean Square Error
-![image](https://github.com/Archana2003-Jkumar/rnn-stock-price-prediction/assets/93427594/e97ad904-cfdb-49b0-8112-e88e7b3fd173)
+![image](https://github.com/Archana2003-Jkumar/rnn-stock-price-prediction/assets/93427594/0b38ab93-0eb8-44d5-bfb7-bb044a1976d2)
 
 ## RESULT
 Thus the program has been successfully executed.
